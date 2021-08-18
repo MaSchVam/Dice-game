@@ -1,10 +1,6 @@
 # DOM "Pig" game 🎲
 
-Check it out here http://playdice.brandinavian.com/
-
-#### Description
-
-Vanilla ES5 App that lets two players play a game of "Pig", using DOM manipulation.
+Vanilla ES5 App that lets two players play a game of "Pig", by simple DOM manipulation.
 
 **GAME RULES:**
 
